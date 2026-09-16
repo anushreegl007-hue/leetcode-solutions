@@ -17,4 +17,4 @@ The array must be sorted for Binary Search to work correctly. The search range i
 
 ### Status
 
-Pending on LeetCode.
+Accepted on LeetCode.
