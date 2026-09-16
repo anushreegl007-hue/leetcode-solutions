@@ -17,4 +17,4 @@ The string is reversed by accessing its characters from the last position to the
 
 ### Status
 
-Pending on LeetCode.
+Solved on LeetCode.
