@@ -19,4 +19,4 @@ The solution finds the longest prefix that is common to all the given strings.
 
 ### Status
 
-Pending on LeetCode.
+Solved on LeetCode.
