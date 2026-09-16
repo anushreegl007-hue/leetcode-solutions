@@ -19,4 +19,4 @@ The stock must be bought before it is sold. If no profit is possible, the maximu
 
 ### Status
 
-Pending on LeetCode.
+Solved on LeetCode.
