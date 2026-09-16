@@ -14,3 +14,6 @@ The goal is to find two numbers in the array whose sum is equal to the target. I
 ### Notes
 
 The same element should not be used twice. I used different indices for each pair to avoid using the same element.
+### Status
+
+Accepted on LeetCode.
