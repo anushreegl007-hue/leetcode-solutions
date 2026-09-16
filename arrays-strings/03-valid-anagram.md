@@ -19,4 +19,4 @@ Two strings are anagrams if they contain the same characters with the same frequ
 
 ### Status
 
-Pending on LeetCode.
+Solved on LeetCode.
