@@ -19,4 +19,4 @@ The stack follows the Last In, First Out (LIFO) principle, which is useful for m
 
 ### Status
 
-Pending on LeetCode.
+Solved on LeetCode.
