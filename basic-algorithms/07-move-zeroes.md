@@ -19,4 +19,4 @@ The solution modifies the array in-place without using another array. The relati
 
 ### Status
 
-Pending on LeetCode.
+Solved on LeetCode.
